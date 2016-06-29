@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec22-10-3-question"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><ol class="arabic"><li><p>Planet betyder vandrare. Varför tror du att planeterna fick detta namn?</p></li><li><p>Ta reda på mera om någon planet: Hur långt är ett dygn och ett år jämfört med jorden? Vilken miljö är det på planeten?</p></li><li><p>Vilka andra namn finns för norra och södra vändkretsarna?</p></li></ol></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec22-10-3-question">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <ol class="arabic" >
+            <li>
+                <p>Planet betyder vandrare. Varför tror du att planeterna fick detta namn?</p>
+            </li>
+            <li>
+                <p>Ta reda på mera om någon planet: Hur långt är ett dygn och ett år jämfört med
+                    jorden? Vilken miljö är det på planeten?</p>
+            </li>
+            <li>
+                <p>Vilka andra namn finns för norra och södra vändkretsarna?</p>
+            </li>
+        </ol>
+    </chunk-body>
+</chunk>

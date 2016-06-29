@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec11-7-2-text"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><object id="Sec11-image-8" mimetype="image/png" idref="SOS_Geografi_0010_9789147103850_art_r1"/><object id="Sec11-image-9" mimetype="image/png" idref="SOS_Geografi_0010_9789147103850_art_r2"><caption>Här är solen i zenit vid norra vändkretsen. Norr om vändkretsen når solen aldrig zenit på himlen.</caption></object><object id="Sec11-image-10" mimetype="image/png" idref="SOS_Geografi_0010_9789147103850_art_r3"><caption>Solen står i zenit vid södra vändkretsen. Vinkeln mellan solens strålar och jordytan är precis 90 grader. Söder om vändkretsen står solen aldrig i zenit.</caption></object><p>Solen står i zenit över savannen. Två elefanter delar på den lilla skuggan från acasiaträdet.</p><p>På jordglobarna här intill kan du se linjer som går runt klotet. Linjen i mitten delar jorden i två halvor och kallas ekvatorn. De två linjerna närmast ekvatorn är norra vändkretsen och södra vändkretsen. I om­råden mellan vändkretsarna står solen någon dag under året i zenit, det vill säga precis mitt på himlen. Vid norra vändkretsen inträffar detta bara en enda dag, ungefär vid midsommar. Detta kallas för sommarsolståndet. Då står solen som högst på himlen på norra halvklotet. Vid södra vändkretsen står solen i zenit omkring den 21 december. Detta kallar vi för vintersolståndet, årets kortaste dag. Då har vi vinter, men på södra halvklotet står solen som högst på himlen, och där är det sommar.</p><!--suppressed,  sec1--></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec11-7-2-text">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">             
+        <p>På jordglobarna här intill kan du se linjer som går runt klotet. Linjen i mitten delar
+            jorden i två halvor och kallas ekvatorn. De två linjerna närmast ekvatorn är norra
+            vändkretsen och södra vändkretsen. I om­råden mellan vändkretsarna står solen någon dag
+            under året i zenit, det vill säga precis mitt på himlen. Vid norra vändkretsen inträffar
+            detta bara en enda dag, ungefär vid midsommar. Detta kallas för sommarsolståndet. Då
+            står solen som högst på himlen på norra halvklotet. Vid södra vändkretsen står solen i
+            zenit omkring den 21 december. Detta kallar vi för vintersolståndet, årets kortaste dag.
+            Då har vi vinter, men på södra halvklotet står solen som högst på himlen, och där är det
+            sommar.</p>
+		<object id="Sec11-image-8" mimetype="image/png"
+            idref="SOS_Geografi_0010_9789147103850_art_r1"/>
+			<caption>Här är solen i zenit vid norra vändkretsen. Norr om vändkretsen når solen
+                aldrig zenit på himlen.</caption>
+		<object id="Sec11-image-9" mimetype="image/png"
+            idref="SOS_Geografi_0010_9789147103850_art_r2">
+            <caption>Solen står i zenit vid södra vändkretsen. Vinkeln mellan solens strålar och
+                jordytan är precis 90 grader. Söder om vändkretsen står solen aldrig i
+                zenit.</caption>
+        </object>
+        <object id="Sec11-image-10" mimetype="image/png"
+            idref="SOS_Geografi_0010_9789147103850_art_r3">
+			<caption>Solen står i zenit över savannen. Två elefanter delar på den lilla skuggan från
+            acasiaträdet.</caption>
+        </object>
+        <!--suppressed,  sec1-->
+    </chunk-body>
+</chunk>

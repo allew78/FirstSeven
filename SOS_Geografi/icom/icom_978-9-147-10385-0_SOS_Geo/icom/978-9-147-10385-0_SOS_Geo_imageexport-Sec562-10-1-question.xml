@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec562-10-1-question"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><ol class="arabic"><li><p>Vilket land låg överst på välfärdslistan år 2013?</p></li><li><p>Vilket land i världen använder mest olja och bensin? </p></li><li><p>Nämn några länder i olika världsdelar som säljer olja till USA. </p></li><li><p>Var finns den viktigaste utländska marknaden för USA:s industri? </p></li><li><p>USA:s jordbruk är mycket effektivt och bönderna producerar mycket mer mat än vad som behövs i landet. Vad händer med överskottet? </p></li><li><p>Ge exempel på varor som Japan säljer till Australien och varor som Japan köper därifrån. </p></li></ol><ol class="bullet"><li><p>7. </p></li><li><p>	a. Vad menas med NIC-länder?b. 	Ge exempel på några sådana länder. </p></li></ol></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+       id="978-9-147-10385-0_SOS_Geo_imageexport-Sec562-10-1-question">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+                xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <ol class="arabic">
+            <li>
+                <p>Vilket land låg överst på välfärdslistan år 2013?</p>
+            </li>
+            <li>
+                <p>Vilket land i världen använder mest olja och bensin?</p>
+            </li>
+            <li>
+                <p>Nämn några länder i olika världsdelar som säljer olja till USA.</p>
+            </li>
+            <li>
+                <p>Var finns den viktigaste utländska marknaden för USA:s industri?</p>
+            </li>
+            <li>
+                <p>USA:s jordbruk är mycket effektivt och bönderna producerar mycket mer mat än vad som behövs i landet.
+                    Vad händer med överskottet?
+                </p>
+            </li>
+            <li>
+                <p>Ge exempel på varor som Japan säljer till Australien och varor som Japan köper därifrån.</p>
+            </li>
+            <li>
+                <p>a. Vad menas med NIC-länder?</p>
+                <p>b. Ge exempel på några sådana länder.</p>
+            </li>
+        </ol>
+    </chunk-body>
+</chunk>

@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec35-10-1-question"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><ol class="arabic"><li><p>Hur går breddgraderna på en karta?</p></li><li><p>Hur går längdgraderna på en karta?</p></li><li><p>Den topografiska kartan har nivå­kurvor. Vad visar de?</p></li></ol></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec35-10-1-question">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <ol class="arabic">
+            <li>
+                <p>Hur går breddgraderna på en karta?</p>
+            </li>
+            <li>
+                <p>Hur går längdgraderna på en karta?</p>
+            </li>
+            <li>
+                <p>Den topografiska kartan har nivå­kurvor. Vad visar de?</p>
+            </li>
+        </ol>
+        <object class="webapp" id="d104640e24523"><caption>Träna begrepp</caption></object>
+    </chunk-body>
+    <metadata-set-container xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <metadata-set about-idrefs="d104640e24523" class="webapp">
+            <properties>
+                <property property-name="description">
+                  <value>Träna begrepp i webapparna</value>
+                </property>
+                <property property-name="src">
+                    <value>//loutv.liber.se/knesset/webbapp/so-s-geografi/#/1-planeten-jorden/tr-na-begrepp</value>
+                </property>
+                <property property-name="icon">
+                    <value></value>
+                </property>
+            </properties>
+        </metadata-set>
+    </metadata-set-container>
+</chunk>

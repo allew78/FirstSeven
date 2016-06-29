@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec4--1-text"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><p>Jorden är ett blått klot i den mörka rymden. Det är en av planeterna kring stjärnan solen. Jorden är en mycket speciell planet som till största delen täcks av vatten. Detta vatten har gjort liv möjligt. Troligen är jorden den enda av planeterna där det finns liv. Kanske är det till och med den enda planeten i hela universum där det finns liv. På jordklotet finns många olika livsmiljöer, från iskylan vid polerna till hettan vid ekvatorn, från torkan i öknarna till fukten i regnskogarna.</p><p>Mycket arbete har lagts ner på att avbilda planeten jorden. De första upptäckarna gjorde egna kartor över okända kuster. Idag har vi exakta kartor över hela vår planet. Flygfoton och satellitbilder har avbildat varje kvadratmeter och med hjälp av satelliter och datorer kan kartor ritas över vilken plats som helst utan att man ens behöver åka dit.</p></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec4--1-text">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <p>Jorden är ett blått klot i den mörka rymden. Det är en av planeterna kring stjärnan
+            solen. Jorden är en mycket speciell planet som till största delen täcks av vatten. Detta
+            vatten har gjort liv möjligt. Troligen är jorden den enda av planeterna där det finns
+            liv. Kanske är det till och med den enda planeten i hela universum där det finns liv. På
+            jordklotet finns många olika livsmiljöer, från iskylan vid polerna till hettan vid
+            ekvatorn, från torkan i öknarna till fukten i regnskogarna.</p>
+        <p>Mycket arbete har lagts ner på att avbilda planeten jorden. De första upptäckarna gjorde
+            egna kartor över okända kuster. Idag har vi exakta kartor över hela vår planet.
+            Flygfoton och satellitbilder har avbildat varje kvadratmeter och med hjälp av satelliter
+            och datorer kan kartor ritas över vilken plats som helst utan att man ens behöver åka
+            dit.</p>
+        <object id="Sec4-image-1" mimetype="image/png" idref="SOS_Geografi_0004_9789147103850_art_r1" />  
+		
+    </chunk-body>
+</chunk>

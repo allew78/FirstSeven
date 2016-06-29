@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec37-10-3-question"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><p class="advanced">13. Använd en atlas för att ta reda på vilka delar i Sverige och två valfria länder som har</p><ol class="loweralpha"><li><p>störst årsnederbörd</p></li><li><p>minst årsnederbörd</p></li></ol><p>14. På Google Earth finns en funktion som kallas gatuvy. Bor du i en tätort kan du testa om du kan hitta en bild på huset där du bor. På hitta.se finns satellitbilder över hela Sverige. Försök hitta ditt hus där.</p></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec37-10-3-question">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <ol class="arabic" start-index="13">
+            <li>
+                <p>Använd en atlas för att ta reda på vilka delar i Sverige och två valfria länder
+                    som har</p>
+                <ol class="loweralpha">
+                    <li>
+                        <p>störst årsnederbörd</p>
+                    </li>
+                    <li>
+                        <p>minst årsnederbörd</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>På Google Earth finns en funktion som kallas gatuvy. Bor du i en tätort kan
+                    du testa om du kan hitta en bild på huset där du bor. På hitta.se finns
+                    satellitbilder över hela Sverige. Försök hitta ditt hus där.</p>
+            </li>
+        </ol>
+    </chunk-body>
+</chunk>

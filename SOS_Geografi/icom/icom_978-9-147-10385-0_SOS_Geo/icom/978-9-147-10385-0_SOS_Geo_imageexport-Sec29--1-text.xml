@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec29--1-text"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><p>Vägkartan</p><p>Vägkartan är också topografisk, i skala 1:100 000. Den är lämplig för cykelturer och bilutflykter.</p><p>Terrängkartan</p><p>Terrängkartan är topografisk och ritad i skala 1:50 000. Kartorna täcker hela landet utom Norr-lands inland och fjällen. Den här kartan passar för utflykter och vandringar.</p></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec29--1-text">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <p>Vägkartan</p>
+        <p>Vägkartan är också topografisk, i skala 1:100 000. Den är lämplig för cykelturer och
+            bilutflykter.</p>
+		<object id="Sec27-image-21" mimetype="image/png"
+            idref="SOS_Geografi_0017_9789147103850_art_r2">
+            <caption>Terrängk<em>a</em>rtan.</caption>
+        </object>
+        <p>Terrängkartan</p>
+        <p>Terrängkartan är topografisk och ritad i skala 1:50 000. Kartorna täcker hela landet utom
+            Norr-lands inland och fjällen. Den här kartan passar för utflykter och vandringar.</p>
+		<object id="Sec27-image-22" mimetype="image/png"
+            idref="SOS_Geografi_0017_9789147103850_art_r1"/>
+    </chunk-body>
+</chunk>

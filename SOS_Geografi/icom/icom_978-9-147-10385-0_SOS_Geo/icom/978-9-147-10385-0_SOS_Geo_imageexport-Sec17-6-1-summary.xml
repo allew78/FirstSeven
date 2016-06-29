@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec17-6-1-summary"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><p>Jorden är indelad i 24 tidzoner. Det skiljer en timme mellan varje zon.</p><p>Den så kallade nollmeridianen är en tänkt linje från nordpol till sydpol. Den går genom Greenwich utanför London.</p><p>Månens dragningskraft gör att vi får ebb och flod vid kusterna.</p></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec17-6-1-summary">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <p>Jorden är indelad i 24 tidzoner. Det skiljer en timme mellan varje zon.</p>
+        <p>Den så kallade nollmeridianen är en tänkt linje från nordpol till sydpol. Den går genom
+            Greenwich utanför London.</p>
+        <p>Månens dragningskraft gör att vi får ebb och flod vid kusterna.</p>
+    </chunk-body>
+</chunk>

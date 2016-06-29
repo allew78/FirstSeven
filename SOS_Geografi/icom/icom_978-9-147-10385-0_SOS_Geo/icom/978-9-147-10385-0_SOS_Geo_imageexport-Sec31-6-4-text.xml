@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec31-6-4-text"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><object id="Sec31-image-28" mimetype="image/png" idref="SOS_Geografi_0020_9789147103850_art_r1"><caption>En bild från Google Earth som visar delar av Malmö med skyskrapan Turning Torso i bakgrunden.</caption></object><p>Tematiska kartor används ofta i ämnet geografi. Med hjälp av datorer kan olika typer av information visas på en karta. I datorn finns väldigt mycket mera information som du kan komma åt bara genom att klicka med musen. Ett system som används för att lagra, bearbeta och presentera geografisk information i datorn brukar kallas GIS</p><!--unsuppressed--><div class="concept"><p>GIS</p><p>=</p><p>geografiskt informationssystem</p></div><p>Ett exempel på GIS är Google Earth. Där visas jordytan från ovan med hjälp av ett stort antal satellitbilder som fogats ihop till en jordglob. Det går att zooma in var som helst och se sjöar, berg, floder, vägar och städer. Du kan till exempel glida runt i New York och titta på frihetsgudinnan, dyka ner i världshaven och studera havsbottnen eller leta rätt på huset där du bor.</p><!--suppressed,  sec1--><!--suppressed,  sec1--></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+  id="978-9-147-10385-0_SOS_Geo_imageexport-Sec31-6-4-text">
+  <chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+
+    <p>Tematiska kartor används ofta i ämnet geografi. Med hjälp av datorer kan olika typer av information visas på en karta. I
+      datorn finns väldigt mycket mera information som du kan komma åt bara genom att klicka med musen. Ett system som används
+      för att lagra, bearbeta och presentera geografisk information i datorn brukar kallas GIS</p>
+    <!--unsuppressed-->
+    <p>Ett exempel på GIS är Google Earth. Där visas jordytan från ovan med hjälp av ett stort antal satellitbilder som fogats
+      ihop till en jordglob. Det går att zooma in var som helst och se sjöar, berg, floder, vägar och städer. Du kan till
+      exempel glida runt i New York och titta på frihetsgudinnan, dyka ner i världshaven och studera havsbottnen eller leta rätt
+      på huset där du bor.</p>
+    <div class="concept">
+      <p class="term">GIS</p>
+      <p class="definition">geografiskt informationssystem</p>
+    </div>
+    <object id="Sec31-image-28" mimetype="image/png" idref="SOS_Geografi_0020_9789147103850_art_r1">
+      <caption>En bild från Google Earth som visar delar av Malmö med skyskrapan Turning Torso i bakgrunden.</caption>
+    </object>
+    <!--suppressed,  sec1-->
+    <!--suppressed,  sec1-->
+  </chunk-body>
+</chunk>

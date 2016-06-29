@@ -1,1 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec21-10-2-question"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><ol class="arabic"><li><p>Varför finns det inget liv på Merkurius?</p></li><li><p>Varför har vi skottår vart fjärde år?</p></li><li><p>Vilken del av jordklotet lutar mot solen när vi har</p><ol class="loweralpha"><li><p>vinter,</p></li><li><p>sommar?</p></li></ol></li><li><p>Vid vändkretsarna står solen i zenit en enda dag under året.</p><ol class="loweralpha"><li><p>När är detta vid norra vändkretsen?</p></li><li><p>Vid södra vändkretsen?</p></li></ol></li><li><p>Försök förklara vad som menas med polcirkeln?</p></li><li><p class="advanced">Beskriv dag och natt under ett år på Nordpolen.</p></li><li><p>Om klockan är 12.00 i Göteborg. Vad är då klockan i Tokyo, New York, Anchorage i Alaska, Helsingfors, ­Reykjavik, Moskva och Oslo?</p></li><li><p class="advanced">Du reser från Köpenhamn klockan 12.00 till New York. Flygtiden är sex timmar. </p><ol class="loweralpha"><li><p>	Vad är klockan i New York när du kommer fram?</p></li><li><p>	När du flyger tillbaka till Köpenhamn startar du från New York klockan 12.00. Vad är då klockan i Köpenhamn när du kommer fram?</p></li></ol></li><li><p>Varför tror du man att man blir särskilt trött när man flyger i öst-västlig riktning?</p></li><li><p>Hur många tidzoner är det mellan Rysslands östgräns och USA:s västgräns (glöm inte Alaska)?</p></li><li><p>Hur är skillnaden mellan ebb och flod i Östersjön?</p></li></ol></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec21-10-2-question">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <ol class="arabic" start-index="10">
+            <li>
+                <p>Varför finns det inget liv på Merkurius?</p>
+            </li>
+            <li>
+                <p>Varför har vi skottår vart fjärde år?</p>
+            </li>
+            <li>
+                <p>Vilken del av jordklotet lutar mot solen när vi har</p>
+                <ol class="loweralpha">
+                    <li>
+                        <p>vinter,</p>
+                    </li>
+                    <li>
+                        <p>sommar?</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>Vid vändkretsarna står solen i zenit en enda dag under året.</p>
+                <ol class="loweralpha">
+                    <li>
+                        <p>När är detta vid norra vändkretsen?</p>
+                    </li>
+                    <li>
+                        <p>Vid södra vändkretsen?</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>Försök förklara vad som menas med polcirkeln?</p>
+            </li>
+            <li>
+                <p class="advanced">Beskriv dag och natt under ett år på Nordpolen.</p>
+            </li>
+            <li>
+                <p>Om klockan är 12.00 i Göteborg. Vad är då klockan i Tokyo, New York, Anchorage i
+                    Alaska, Helsingfors, ­Reykjavik, Moskva och Oslo?</p>
+            </li>
+            <li>
+                <p class="advanced">Du reser från Köpenhamn klockan 12.00 till New York. Flygtiden
+                    är sex timmar. </p>
+                <ol class="loweralpha">
+                    <li>
+                        <p> Vad är klockan i New York när du kommer fram?</p>
+                    </li>
+                    <li>
+                        <p> När du flyger tillbaka till Köpenhamn startar du från New York klockan
+                            12.00. Vad är då klockan i Köpenhamn när du kommer fram?</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>Varför tror du man att man blir särskilt trött när man flyger i öst-västlig
+                    riktning?</p>
+            </li>
+            <li>
+                <p>Hur många tidzoner är det mellan Rysslands östgräns och USA:s västgräns (glöm
+                    inte Alaska)?</p>
+            </li>
+            <li>
+                <p>Hur är skillnaden mellan ebb och flod i Östersjön?</p>
+            </li>
+        </ol>
+    </chunk-body>
+</chunk>

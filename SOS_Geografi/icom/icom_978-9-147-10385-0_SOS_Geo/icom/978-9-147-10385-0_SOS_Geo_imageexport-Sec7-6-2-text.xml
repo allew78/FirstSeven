@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec7-6-2-text"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><object id="Sec7-image-5" mimetype="image/png" idref="SOS_Geografi_0008_9789147103850_art_r1"><caption>Jordens bana kring solen.</caption></object><p>Jorden rör sig precis som de andra planeterna i en bana runt solen. Den tid det tar för jorden att göra ett helt varv kallar vi för ett år. Samtidigt som jordklotet färdas kring solen roterar det sakta. Tänk dig att jorden har en axel som går rakt igenom klotet från sydpol till nordpol, som på en jordglob. Kring denna så kallade jordaxel snurrar jorden, ett varv på ett dygn. De delar som vänds mot solen har dag, och de delar som vänds från solen har natt.</p></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec7-6-2-text">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <p>Jorden rör sig precis som de andra planeterna i en bana runt solen. Den tid det tar för
+            jorden att göra ett helt varv kallar vi för ett år. Samtidigt som jordklotet färdas
+            kring solen roterar det sakta. Tänk dig att jorden har en axel som går rakt igenom
+            klotet från sydpol till nordpol, som på en jordglob. Kring denna så kallade jordaxel
+            snurrar jorden, ett varv på ett dygn. De delar som vänds mot solen har dag, och de delar
+            som vänds från solen har natt.</p>
+		 <object id="Sec7-image-5" mimetype="image/png"
+            idref="SOS_Geografi_0008_9789147103850_art_r1">
+            <caption>Jordens bana kring solen.</caption>
+        </object>	
+    </chunk-body>
+</chunk>

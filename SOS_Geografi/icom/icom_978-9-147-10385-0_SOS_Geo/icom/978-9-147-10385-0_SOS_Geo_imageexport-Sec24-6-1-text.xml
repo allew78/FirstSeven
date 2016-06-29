@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec24-6-1-text"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><object id="Sec24-image-17" mimetype="image/png" idref="SOS_Geografi_0015_9789147103850_art_r1"/><object id="Sec24-image-18" mimetype="image/png" idref="SOS_Geografi_0015_9789147103850_art_r2"><caption>Kartan visar mellan vilka breddgrader och längdgrader som Sverige ligger.</caption></object><p>På globerna har vi ritat in ett glest gradnät. Längdgraderna går uppifrån och ner, breddgraderna går från vänster till höger. Ekvatorn går på mitten av klotet. Vi i Sverige bor på norra halvklotet.</p><p>För att det ska gå att exakt ange var varje plats ligger på jordklotet har jordklotet delats in i ett rutnät av breddgrader och längdgrader. Ekvatorn delar jordklotet i två halvor. Breddgrader är linjer som bildar cirklar och är parallella med ekvatorn. Orter som ligger på samma breddgrad ligger lika långt från ekvatorn. Längdgraderna går från pol till pol. Genom att ange både breddgrad och längdgrad kan man tala om var på jordklotet en plats ligger. Rutnätet är inritat på alla kartor, titta till exempel i din skolatlas.</p><!--unsuppressed--><div class="extra"><!--Dissolved section xml:id=Sec25
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec24-6-1-text">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">       					
+        <p>För att det ska gå att exakt ange var varje plats ligger på jordklotet har jordklotet
+            delats in i ett rutnät av breddgrader och längdgrader. Ekvatorn delar jordklotet i två
+            halvor. Breddgrader är linjer som bildar cirklar och är parallella med ekvatorn. Orter
+            som ligger på samma breddgrad ligger lika långt från ekvatorn. Längdgraderna går från
+            pol till pol. Genom att ange både breddgrad och längdgrad kan man tala om var på
+            jordklotet en plats ligger. Rutnätet är inritat på alla kartor, titta till exempel i din
+            skolatlas.</p>
+		<object id="Sec24-image-17" mimetype="image/png"
+            idref="SOS_Geografi_0015_9789147103850_art_r1"/>
+			<caption>Kartan visar mellan vilka breddgrader och längdgrader som Sverige
+                ligger.</caption>	
+		<object id="Sec24-image-18" mimetype="image/png"
+            idref="SOS_Geografi_0015_9789147103850_art_r2">
+			<caption>På globerna har vi ritat in ett glest gradnät. Längdgraderna går uppifrån och ner,
+            breddgraderna går från vänster till höger. Ekvatorn går på mitten av klotet. Vi i
+            Sverige bor på norra halvklotet.</caption>
+            </object>	
+			
+        <!--unsuppressed-->
+        <div class="extra">
+            <!--Dissolved section xml:id=Sec25
 role=p_h_extra_title
 css:color=device-cmyk(0,0,0,1)
 css:font-weight=600
@@ -15,5 +41,27 @@ css:text-align=center
 css:direction=ltr
 css:font-family=Adobe Garamond Pro
 css:text-align-last=center
-renderas=sect6--><p class="title">Latituder och longituder</p><!--End dissolved section
-    --></div><p>Longituder</p><p>Längdgraderna som går från pol till pol kallas också longituder. Med hjälp av longituder delas jordklotet in i 360 bitar, 360°. I slutet av 1800-talet bestämdes att den longitud som gick genom Greenwich utanför London skulle ha värdet 0°. Denna kallas också för nollmeridianen. En plats kan ligga mellan 0–180° väst eller 0–180° öst. Göteborg som ligger öster om Greenwich har longituden 12° öst, och New York som ligger väster om Greenwich har longituden 74° väst.</p><p>Latituder</p><!--unsuppressed--><div class="extra"><p>Ett annat namn för breddgrader är latituder. Den linje som markerar ekvatorn har fått värdet 0° (noll grader), Nordpolen ligger på latituden 90° nord och Sydpolen på 90° syd. Ystad har latituden 55° N och Haparanda 66° N. Haparanda ligger alltså elva latituder norr om Ystad. Avståndet på jordytan mellan två latituder är elva mil. Alltså är avståndet från Ystad till Haparanda ungefär 120 mil fågel­vägen (11×11mil).</p></div></chunk-body></chunk>
+renderas=sect6-->
+            <p class="title">Latituder och longituder</p>
+            <!--End dissolved section
+    -->
+        </div>
+        <p>Longituder</p>
+        <p>Längdgraderna som går från pol till pol kallas också longituder. Med hjälp av longituder
+            delas jordklotet in i 360 bitar, 360°. I slutet av 1800-talet bestämdes att den longitud
+            som gick genom Greenwich utanför London skulle ha värdet 0°. Denna kallas också för
+            nollmeridianen. En plats kan ligga mellan 0–180° väst eller 0–180° öst. Göteborg som
+            ligger öster om Greenwich har longituden 12° öst, och New York som ligger väster om
+            Greenwich har longituden 74° väst.</p>
+        <p>Latituder</p>
+        <!--unsuppressed-->
+        <div class="extra">
+            <p>Ett annat namn för breddgrader är latituder. Den linje som markerar ekvatorn har fått
+                värdet 0° (noll grader), Nordpolen ligger på latituden 90° nord och Sydpolen på 90°
+                syd. Ystad har latituden 55° N och Haparanda 66° N. Haparanda ligger alltså elva
+                latituder norr om Ystad. Avståndet på jordytan mellan två latituder är elva mil.
+                Alltså är avståndet från Ystad till Haparanda ungefär 120 mil fågel­vägen
+                (11×11mil).</p>
+        </div>
+    </chunk-body>
+</chunk>

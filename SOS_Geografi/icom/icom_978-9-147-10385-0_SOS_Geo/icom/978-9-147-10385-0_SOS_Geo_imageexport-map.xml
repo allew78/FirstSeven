@@ -5,6 +5,7 @@
   xmlns:tr="http://transpect.io" id="978-9-147-10385-0_SOS_Geo_imageexport-map" class="html-book-map">
   <context-ref idref="html-book-context"/>
   <map-body>
+    
     <section id="978-9-147-10385-0_SOS_Geo_imageexport-Sec3--1" class="chapter">
       <titles>
         <title class="main"><span class="page_start" id="d104640e163"/>Planeten Jorden</title>
@@ -2938,9 +2939,7 @@
         <section id="978-9-147-10385-0_SOS_Geo_imageexport-Sec543--7" class="backmatter">
           <section id="978-9-147-10385-0_SOS_Geo_imageexport-Sec544-6-1" class="summary">
             <titles>
-              <title class="main">samman<sub
-                  srcpath="Stories/Story_u775.xml?xpath=/idPkg:Story[1]/Story[1]/ParagraphStyleRange[1363]/CharacterStyleRange[2]"
-                  >­</sub>fattning</title>
+              <title class="main">Sammanfattning</title>
             </titles>
             <chunk-ref idref="978-9-147-10385-0_SOS_Geo_imageexport-Sec544-6-1-summary"/>
           </section>

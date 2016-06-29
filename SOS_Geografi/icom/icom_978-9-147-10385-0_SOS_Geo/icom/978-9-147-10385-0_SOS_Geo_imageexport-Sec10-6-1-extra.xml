@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text" id="978-9-147-10385-0_SOS_Geo_imageexport-Sec10-6-1-extra"><chunk-body xmlns:css="http://www.w3.org/1996/css" xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io"><object id="Sec10-image-7" mimetype="image/png" idref="SOS_Geografi_0009_9789147103850_art_r1"><caption>Norr om polcirkeln går solen aldrig ner på sommaren. Här är solen fotograferad en gång varje timme under ett dygn.</caption></object><p>Det som är speciellt för sommaren i Norden är de långa dagarna och de ljusa sommarnätterna. Allra längst upp i norr går solen inte ner alls under sommarmånaderna. Detta kallas för midnattssol.</p><p>  Midnattssolen kan man se norr om polcirkeln. Precis vid polcirkeln är solen uppe en enda natt. Det är vid sommarsolståndet som inträffar omkring den 22 juni, alltså ungefär vid midsommar. Längre norrut blir de soliga nätterna fler, och vid nordpolen är det ljust dygnet runt hela sommar­halvåret.</p><p>  Men om sommaren är ljus längst upp i norr är vintern desto mörkare. Solen går upp sent och ner tidigt. Även mitt på dagen står den lågt på himlen. Vid polcirkeln är det nu i stället mörkt ett helt dygn, det vill säga solen visar sig inte alls. Det sker vid vintersolståndet som är omkring den 21 december. Längre norrut blir det förstås fler mörka dygn. På nordpolen är det mörkt hela vinterhalvåret.</p></chunk-body></chunk>
+<?xml version="1.0" encoding="UTF-8"?>
+<chunk xmlns="http://www.infinitaslearning.com/namespaces/ICoM" class="html-book-text"
+    id="978-9-147-10385-0_SOS_Geo_imageexport-Sec10-6-1-extra">
+    <chunk-body xmlns:css="http://www.w3.org/1996/css"
+        xmlns:icom="http://www.infinitaslearning.com/namespaces/ICoM"
+        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tr="http://transpect.io">
+        <p>Det som är speciellt för sommaren i Norden är de långa dagarna och de ljusa
+            sommarnätterna. Allra längst upp i norr går solen inte ner alls under sommarmånaderna.
+            Detta kallas för midnattssol.</p>
+        <p>  Midnattssolen kan man se norr om polcirkeln. Precis vid polcirkeln är solen uppe en
+            enda natt. Det är vid sommarsolståndet som inträffar omkring den 22 juni, alltså ungefär
+            vid midsommar. Längre norrut blir de soliga nätterna fler, och vid nordpolen är det
+            ljust dygnet runt hela sommar­halvåret.</p>
+        <p>  Men om sommaren är ljus längst upp i norr är vintern desto mörkare. Solen går upp sent
+            och ner tidigt. Även mitt på dagen står den lågt på himlen. Vid polcirkeln är det nu i
+            stället mörkt ett helt dygn, det vill säga solen visar sig inte alls. Det sker vid
+            vintersolståndet som är omkring den 21 december. Längre norrut blir det förstås fler
+            mörka dygn. På nordpolen är det mörkt hela vinterhalvåret.</p>
+		<object id="Sec10-image-7" mimetype="image/png"
+            idref="SOS_Geografi_0009_9789147103850_art_r1">
+            <caption>Norr om polcirkeln går solen aldrig ner på sommaren. Här är solen fotograferad
+                en gång varje timme under ett dygn.</caption>
+        </object>
+    </chunk-body>
+</chunk>
